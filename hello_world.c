@@ -1,5 +1,4 @@
 // hello world test
-// Jason
 #include <stdio.h>
 
 int main()
